@@ -67,7 +67,9 @@ Since Copilot does not integrate directly with HubSpot and Breeze is not active,
 
 ## Resource Files
 
-All files stored in **USLegal-ResourceFiles/** folder. Participants upload to OneDrive at the start of the workshop.
+Participants download the resource files from the following URL during lab setup, then extract and upload to OneDrive:
+
+**Download:** [https://github.com/opsgility/uslegal/raw/refs/heads/main/USLegal-ResourceFiles/ResourceFiles.zip](https://github.com/opsgility/uslegal/raw/refs/heads/main/USLegal-ResourceFiles/ResourceFiles.zip)
 
 | File | Format | Used In | Description |
 |---|---|---|---|
